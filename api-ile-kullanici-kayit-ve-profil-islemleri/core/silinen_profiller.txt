@@ -1,0 +1,1 @@
+Profil nesnesi silindi - ID: 1, Kullanıcı: testuser5, Bio: Bu testuser5 adlı kullanıcının biyografisidir, Şehir: Ankara, Foto: Foto alanı boştu
